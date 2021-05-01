@@ -1,0 +1,9 @@
+variable1 is "hello world"
+
+comment: this is to start the test
+comment: this is to start the test
+
+if variable1 equals "hello world" then
+  message the user with "it equals"
+else
+  message the user with "it does not"
